@@ -1,1 +1,1 @@
-# Snake Game by using python (tkinter).
+## Snake Game by using tkinter in python.
